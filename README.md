@@ -1,4 +1,13 @@
-## Hi there 👋
+## Гусаров Иван Викторович
+# Backend:
+- Django
+- Django models ORM
+- Redis
+- Postman
+# Frontend:
+- React
+- React Native (начальный)
+- Zustand (начальный)
 
 <!--
 **zenokan-4ik/zenokan-4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
